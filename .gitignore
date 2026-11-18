@@ -1,0 +1,9 @@
+# Power BI / OS
+*.pbix.bak
+~$*
+.vs/
+# Keep BI_Suite.pbix in powerbi/ (remove next line if it exceeds 100 MB and use Git LFS)
+# powerbi/*.pbix
+# Secrets
+*.env
+connection-strings.txt
